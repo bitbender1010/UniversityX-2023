@@ -1,4 +1,4 @@
-@extends('layouts.homestudent')
+@extends('layouts.student100')
 @section('content')
                <!--back btn-->
                <div class="home-back-btn">

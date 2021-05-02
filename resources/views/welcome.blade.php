@@ -133,23 +133,23 @@
         </div>
     </a>
     <!--levels-children-->
-    <div href="#" class="cc-1">
+    <a href="{{ asset('computer-science/200/dashboard') }}" class="cc-1">
         <div class="course-card">
         <div class="course-title ct-sub">200 Level</div>
         </div>
-    </div>
+    </a>
     <!--levels-children-->
-    <div href="#" class="cc-1">
+    <a href="{{ asset('computer-science/300/dashboard') }}" class="cc-1">
         <div class="course-card">
         <div class="course-title ct-sub">300 Level</div>
         </div>
-    </div>
+    </a>
     <!--levels-children-->
-    <div href="#" class="cc-1">
+    <a href="{{ asset('computer-science/400/dashboard') }}" class="cc-1">
         <div class="course-card">
         <div class="course-title ct-sub">400 Level</div>
         </div>
-    </div>
+    </a>
     </div>
     <!--end od parent div-->
     </div>
@@ -165,25 +165,25 @@
     <div class="level-child">
     <div href="#" class="cc-1">
         <div class="course-card">
-        <div class="course-title ct-sub">100 Level</div>
+        <div class="course-title ct-sub">100 Level (Coming soon)</div>
         </div>
     </div>
     <!--levels-children-->
     <div href="#" class="cc-1">
         <div class="course-card">
-        <div class="course-title ct-sub">200 Level</div>
+        <div class="course-title ct-sub">200 Level (Coming soon)</div>
         </div>
     </div>
     <!--levels-children-->
     <div href="#" class="cc-1">
         <div class="course-card">
-        <div class="course-title ct-sub">300 Level</div>
+        <div class="course-title ct-sub">300 Level (Coming soon)</div>
         </div>
     </div>
     <!--levels-children-->
     <div href="#" class="cc-1">
         <div class="course-card">
-        <div class="course-title ct-sub">400 Level</div>
+        <div class="course-title ct-sub">400 Level (Coming soon)</div>
         </div>
     </div>
     </div>
@@ -202,25 +202,25 @@
     <div class="level-child">
     <div href="#" class="cc-1">
         <div class="course-card">
-        <div class="course-title ct-sub">100 Level</div>
+        <div class="course-title ct-sub">100 Level (Coming soon)</div>
         </div>
     </div>
     <!--levels-children-->
     <div href="#" class="cc-1">
         <div class="course-card">
-        <div class="course-title ct-sub">200 Level</div>
+        <div class="course-title ct-sub">200 Level (Coming soon)</div>
         </div>
     </div>
     <!--levels-children-->
     <div href="#" class="cc-1">
         <div class="course-card">
-        <div class="course-title ct-sub">300 Level</div>
+        <div class="course-title ct-sub">300 Level (Coming soon)</div>
         </div>
     </div>
     <!--levels-children-->
     <div href="#" class="cc-1">
         <div class="course-card">
-        <div class="course-title ct-sub">400 Level</div>
+        <div class="course-title ct-sub">400 Level (Coming soon)</div>
         </div>
     </div>
     </div>

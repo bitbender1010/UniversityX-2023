@@ -17,8 +17,21 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+/*levels route*/
 Route::get('/computer-science/100/dashboard', function () {
     return view('computer-science/100/dashboard');
+});
+
+Route::get('/computer-science/200/dashboard', function () {
+    return view('computer-science/200/dashboard');
+});
+
+Route::get('/computer-science/300/dashboard', function () {
+    return view('computer-science/300/dashboard');
+});
+
+Route::get('/computer-science/400/dashboard', function () {
+    return view('computer-science/400/dashboard');
 });
 
 Route::get('/computer-science/100/CSC120/coursecontent', function () {
@@ -35,4 +48,13 @@ Route::get('/computer-science/100/CSC120/1/video-one', function () {
     return view('computer-science/100/CSC120/1/video-one');
 });
 
+
+/******* CSC course contents *********/
+Route::get('/computer-science/100/MAT112/coursecontent', function () {
+    return view('computer-science/100/MAT112/coursecontent');
+});
+
+Route::get('/computer-science/100/CSC104/coursecontent', function () {
+    return view('computer-science/100/CSC104/coursecontent');
+});
 

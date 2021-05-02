@@ -1,4 +1,4 @@
-@extends('layouts.homestudent')
+@extends('layouts.student100')
 @section('content')
                <!--back btn-->
                <div class="home-back-btn">
@@ -57,31 +57,6 @@
                 </div>
 
 
-
-
-                <!--Resources-->
-                <div class="inner-resources"> Resources: </div>
-                <!--files-->
-
-                
-                <a href="{{ asset('files/BIO101/GROWTH AND REPRODUCTION(BIO101).ppt')}}" download target="_blank">
-                       <div class="course-card sub-margin">
-                           <!--video icon-->
-                          <div class="sm-sub-icon"> <img src="{{ asset('images/ppt.svg')}}"/> </div>
-                           <div class="course-title ct-sub">Growth and reproduction</div>
-                           <!-- <div class="c-info"> </div> -->
-                       </div>
-                </a>
-
-
-                <a href="{{ asset('files/BIO101/MACROMOLECULES 2.pdf')}}" download target="_blank">
-                       <div class="course-card sub-margin">
-                           <!--video icon-->
-                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf-icon.svg')}}"/> </div>
-                           <div class="course-title ct-sub">Macromolecules</div>
-                           <div class="c-info"> </div>
-                       </div>
-                </a>
 
 <style>
     /* body {

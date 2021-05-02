@@ -26,8 +26,8 @@ let iSidebar = document.querySelector('.nav-sidebar');
 let iNLinks = document.querySelectorAll('.nav-links');
 
 
-//popupfor modal (i)
-let modalValues = document.querySelectorAll('.info-img');
+//popupfor modal (i) :: removed g in info-img
+let modalValues = document.querySelectorAll('.info-im');
 let infopopup = document.querySelector('.courseinfo-box');
 
 modalValues.forEach(modalValue => {
@@ -80,23 +80,6 @@ function closexpopup() {
         
 }
 
-
-///if btn clicked color me
-// let myNavLinks = document.querySelectorAll('.nav-one');
-
-// myNavLinks.forEach(myNav => {
-//     myNav.addEventListener('click', runNav);
-// });
-
-// function runNav(e) {
-//     console.log(e.target);
-//     if(e.target.classList.contains("nav-one")) {
-//         console.log("class name");
-//         if(e.target.parentNode.parentNode.classList.contains("nav-links")) {
-//         e.target.parentNode.parentNode.style="color:#6534E2; background-color: #D2C1FF; border-left: 5px solid #6534E2;";
-//         } 
-//     }
-// }
 
 //Toggle Icon Navbar
 let toggleIcon = document.querySelector('.nav-toggle-icon').addEventListener('click', toggleNav);

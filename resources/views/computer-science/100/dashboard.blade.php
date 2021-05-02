@@ -1,4 +1,4 @@
-@extends('layouts.homestudent')
+@extends('layouts.student100')
 @section('content')
                 <!--school + department-->
                 <div class="schl-dept">
@@ -26,11 +26,11 @@
                 </div>
                 <!--2-->
                 <div class="course-card">
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}" class="course-title"> Software Workshop (CSC 120)
+                    <a href="{{ asset('computer-science/100/CSC104/coursecontent') }}" class="course-title"> Software Workshop (CSC 104)
                     </a>
                     <div class="c-info"> 
                     <img src="{{ asset('images/info.svg')}}" class="info-img info-img-pad"/>  
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}">
+                    <a href="{{ asset('computer-science/100/CSC104/coursecontent') }}">
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                     </a> 
                     </div>
@@ -38,11 +38,11 @@
                 
                 <!--3-->
                 <div class="course-card">
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}" class="course-title"> Principles of computer organization (CSC 112)
+                    <a href="#" class="course-title"> Principles of computer organization (CSC 112)
                     </a>
                     <div class="c-info"> 
                     <img src="{{ asset('images/info.svg')}}" class="info-img info-img-pad"/>  
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}">
+                    <a href="#">
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                     </a> 
                     </div>
@@ -50,11 +50,11 @@
 
                 <!--4-->
                 <div class="course-card">
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}" class="course-title"> Principles of programming launguages 1 (CSC 132)
+                    <a href="#" class="course-title"> Principles of programming launguages 1 (CSC 132)
                     </a>
                     <div class="c-info"> 
                     <img src="{{ asset('images/info.svg')}}" class="info-img info-img-pad"/>  
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}">
+                    <a href="#">
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                     </a> 
                     </div>
@@ -62,11 +62,11 @@
 
                 <!--5-->
                 <div class="course-card">
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}" class="course-title"> Calculus (MAT 112)
+                    <a href="{{ asset('computer-science/100/MAT112/coursecontent') }}" class="course-title"> Calculus (MAT 112)
                     </a>
                     <div class="c-info"> 
                     <img src="{{ asset('images/info.svg')}}" class="info-img info-img-pad"/>  
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}">
+                    <a href="#">
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                     </a> 
                     </div>
@@ -74,11 +74,11 @@
 
                 <!--6-->
                 <div class="course-card">
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}" class="course-title"> Co-ordinate Geometry 2 (MAT 142)
+                    <a href="#" class="course-title"> Co-ordinate Geometry 2 (MAT 142)
                     </a>
                     <div class="c-info"> 
                     <img src="{{ asset('images/info.svg')}}" class="info-img info-img-pad"/>  
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}">
+                    <a href="#">
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                     </a> 
                     </div>
@@ -86,11 +86,11 @@
 
                 <!--7-->
                 <div class="course-card">
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}" class="course-title"> Introductory Statistics (MAT 162)
+                    <a href="#" class="course-title"> Introductory Statistics (MAT 162)
                     </a>
                     <div class="c-info"> 
                     <img src="{{ asset('images/info.svg')}}" class="info-img info-img-pad"/>  
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}">
+                    <a href="#">
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                     </a> 
                     </div>
@@ -98,11 +98,11 @@
 
                 <!--8-->
                 <div class="course-card">
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}" class="course-title"> Basic Optics and Sounds (PHY 102)
+                    <a href="#" class="course-title"> Basic Optics and Sounds (PHY 102)
                     </a>
                     <div class="c-info"> 
                     <img src="{{ asset('images/info.svg')}}" class="info-img info-img-pad"/>  
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}">
+                    <a href="#">
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                     </a> 
                     </div>
@@ -110,11 +110,11 @@
 
                 <!--9-->
                 <div class="course-card">
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}" class="course-title"> Electricity and magnetism 1 (PHY 102)
+                    <a href="#" class="course-title"> Electricity and magnetism 1 (PHY 102)
                     </a>
                     <div class="c-info"> 
                     <img src="{{ asset('images/info.svg')}}" class="info-img info-img-pad"/>  
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}">
+                    <a href="#">
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                     </a> 
                     </div>
@@ -122,11 +122,11 @@
 
                 <!--10-->
                 <div class="course-card">
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}" class="course-title"> Use of English (GNS 102)
+                    <a href="#" class="course-title"> Use of English (GNS 102)
                     </a>
                     <div class="c-info"> 
                     <img src="{{ asset('images/info.svg')}}" class="info-img info-img-pad"/>  
-                    <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}">
+                    <a href="#">
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                     </a> 
                     </div>
