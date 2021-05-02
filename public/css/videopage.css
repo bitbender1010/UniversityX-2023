@@ -7,9 +7,9 @@
     margin-top: 50px;
 }
 
-.video-container video {
+.video-container iframe {
     width: 100%;
-    height: 100%;
+    height: 30vw;
 }
 
 .video-title {
@@ -39,6 +39,7 @@
     height: 50px;
     border-radius: 50px;
     margin-right: 5px;
+    border: 2px solid gray;
 }
 
 .video-user-profile img {

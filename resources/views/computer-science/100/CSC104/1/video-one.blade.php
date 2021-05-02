@@ -2,14 +2,14 @@
 @section('content')
                <!--back btn-->
                <div class="home-back-btn">
-               <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}"> <img src="{{ asset('images/back.svg')}}" class="course-back"/> </a>
+               <a href="{{ asset('computer-science/100/CSC104/1/coursedetails') }}"> <img src="{{ asset('images/back.svg')}}" class="course-back"/> </a>
                <a href="#"> <img src="{{ asset('images/megaphone.svg')}}" class="course-announcement"/> </a>
                <div class="announce-num">1</div>
                </div>
                
                        <!--list of courses-->
                        <div class="list-of-courses">
-                           <div class="loc">Courses > Computer as a Problem Solving Tool (CSC 120) > Concept of problem solving > Growth and reproduction (Video) </div>
+                           <div class="loc">Courses > Software Workshop (CSC 104) > Programming language; Basic elements, Data types, Control structures and Program design > Introducton to computer and the FORTRAN language </div>
                            <div class="loc-line"></div>
                        </div>
 
@@ -21,9 +21,9 @@
                 </div>
 
         <!--video title-->
-        <div class="video-title">First generation computers</div>
+        <div class="video-title">Introducton to computer and the FORTRAN language</div>
         <!--video description-->
-        <div style="margin-bottom: 10px; font-size: 18px; color: gray;"> Lorem ipsum dolor sit amet consectetur adipisicing elit. A, dolores ratione. Expedita dolor illo ratione porro assumenda facere maiores reiciendis dignissimos velit magnam, incidunt deserunt aliquam animi at odit quis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti provident sint at alias, maiores culpa sed eaque consequuntur aliquam aliquid voluptate.
+        <div style="margin-bottom: 10px; font-size: 18px; color: gray;"> Chapter 1: Introducton to computer and the FORTRAN language by Dr Toyin.
         </div>
         <!--show more-->
         <!-- <div class="show-more"> <span>SHOW MORE</span> <img src="../images/arrows.svg" class="show-more-img down-direction"/> </div> -->
@@ -38,7 +38,7 @@
         <!--user profile details-->
         <div class="vup-cover">
             <div class="video-user-profile"> <img src="{{ asset('images/lasu.png')}}" /> </div>
-            <div class="profile-name-vid"> <span class="marg-b1">Ololade Dammie</span> <span class="marg-b2">Lagos State University</span> </div>
+            <div class="profile-name-vid"> <span class="marg-b1">Toyin Enikuomehin</span> <span class="marg-b2">Lagos State University</span> </div>
         </div>
 </div>
 <style>

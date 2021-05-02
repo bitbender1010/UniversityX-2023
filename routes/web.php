@@ -58,3 +58,12 @@ Route::get('/computer-science/100/CSC104/coursecontent', function () {
     return view('computer-science/100/CSC104/coursecontent');
 });
 
+/*********/
+Route::get('/computer-science/100/CSC104/1/coursedetails', function () {
+    return view('computer-science/100/CSC104/1/coursedetails');
+});
+
+//video routes
+Route::get('/computer-science/100/CSC104/1/video-one', function () {
+    return view('computer-science/100/CSC104/1/video-one');
+});

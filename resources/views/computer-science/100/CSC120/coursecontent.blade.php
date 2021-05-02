@@ -14,7 +14,7 @@
                        </div>
 
                 <!--1-->
-                <a href="{{ asset('computer-science/100/CSC120/1/coursedetails') }}" class="cc-1">
+                <a href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
                            <div class="num-tab num-active">1</div>
