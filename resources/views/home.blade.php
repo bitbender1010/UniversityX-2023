@@ -1,10 +1,14 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+
+    <!-- <title>{{ config('app.name', 'UniversityX') }}</title> -->
+    <title>UniversityX</title>
 
     <!-- Styles -->
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
@@ -85,7 +89,7 @@
 
     <!---JS--->
     <script src="{{ asset('js/landing.js') }}" defer></script>
-    </head>
+</head>
 <body class="antialiased">
     <nav class="nav">
         <!--Logo-->
