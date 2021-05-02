@@ -313,7 +313,7 @@ nav {
 
 .loc {
     border-bottom: 5px solid #6534E2;
-    padding: 5px 0px;
+    /* padding: 5px 0px; */
     position: relative;
     top: 5px;
     bottom: 0;
@@ -321,6 +321,10 @@ nav {
     font-weight: bold;
     color: #6534E2;
     display: flex;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 
