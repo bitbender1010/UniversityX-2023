@@ -11,7 +11,7 @@
     <title>UniversityX</title>
 
     <!-- Styles -->
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="{{ secure_asset('css/style.css') }}" rel="stylesheet">
 
     <style>
     .cc-1 .course-card .ct-sub {
@@ -88,7 +88,7 @@
     </style>
 
     <!---JS--->
-    <script src="{{ asset('js/landing.js') }}" defer></script>
+    <script src="{{ secure_asset('js/landing.js') }}" defer></script>
 </head>
 <body class="antialiased">
     <nav class="nav">
