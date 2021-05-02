@@ -159,5 +159,29 @@
         width: -webkit-fill-available;
     }
 }
+
+/**browse */
+    /* .nav-2 {
+    background-color: #D2C1FF;
+    border-right: none;
+    border-left: 5px solid #6534E2;
+    color: #6534E2;
+    width: calc(100% - 5px);
+    }
+
+    .nav-2 .svg-hover {
+    fill: #6534E2;
+}
+
+    .nav-2 .nav-text {
+    color: #6534E2;
+    font-weight: bold;
+    }
+
+    @media (max-width: 900px) {
+    .nav-2 {
+        width: -webkit-fill-available;
+    }
+} */
 </style>
 @endsection

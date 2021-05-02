@@ -86,7 +86,7 @@
         </div>
 </a>
         <!--Browse-->
-        <a href="{{ asset('computer-science/100/CSC120/coursecontent') }}" class="hover-links">
+        <a href="#" class="hover-links">
         <div class="nav-links nav-one nav-2"> 
             <div class="side-one">
             <div class="sidebar-icons sb-icons-big"> 

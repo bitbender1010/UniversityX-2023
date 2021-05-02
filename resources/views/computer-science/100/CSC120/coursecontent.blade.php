@@ -87,26 +87,25 @@
     /* body {
         background: red;
     } */
-
-    .nav-2 {
-    background-color: #D2C1FF;
+    .nav-1 {
+    background-color: #D2C1FF!important;
     border-right: none;
     border-left: 5px solid #6534E2;
     color: #6534E2;
     width: calc(100% - 5px);
     }
 
-    .nav-2 .svg-hover {
+    .nav-1 .svg-hover {
     fill: #6534E2;
 }
 
-    .nav-2 .nav-text {
+    .nav-1 .nav-text {
     color: #6534E2;
     font-weight: bold;
-    }
+}
 
-    @media (max-width: 900px) {
-    .nav-2 {
+@media (max-width: 900px) {
+    .nav-1 {
         width: -webkit-fill-available;
     }
 }
