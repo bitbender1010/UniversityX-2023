@@ -11,6 +11,7 @@
     <title>UniversityX</title>
 
     <!-- Styles -->
+    <link href="{{ asset('css/style.css') }}" rel="stylesheet">
     <link href="{{ secure_asset('css/style.css') }}" rel="stylesheet">
 
     <style>
@@ -88,6 +89,7 @@
     </style>
 
     <!---JS--->
+    <script src="{{ asset('js/landing.js') }}" defer></script>
     <script src="{{ secure_asset('js/landing.js') }}" defer></script>
 </head>
 <body class="antialiased">

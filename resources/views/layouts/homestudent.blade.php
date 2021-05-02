@@ -14,6 +14,10 @@
     <script src="{{ asset('js/app.js') }}" defer></script>
     <script src="{{ asset('js/doubletap.js') }}" defer></script>
     <script src="{{ asset('js/popup.js') }}" defer></script>
+    <!--Secure scripts-->
+    <script src="{{ secure_asset('js/app.js') }}" defer></script>
+    <script src="{{ secure_asset('js/doubletap.js') }}" defer></script>
+    <script src="{{ secure_asset('js/popup.js') }}" defer></script>
     <script src="https://apis.google.com/js/platform.js" async defer></script>
    
 
@@ -26,9 +30,15 @@
     <link href="{{ asset('css/coursedetails.css') }}" rel="stylesheet">
     <link href="{{ asset('css/courses.css') }}" rel="stylesheet">
     <link href="{{ asset('css/createcourse.css') }}" rel="stylesheet">
+    <!---Secure Assets-->
+    <link href="{{ secure_asset('css/style.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/coursedetails.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/courses.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/createcourse.css') }}" rel="stylesheet">
 
     <!--Video Page CSS-->
     <link href="{{ asset('css/videopage.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/videopage.css') }}" rel="stylesheet">
 
 </head>
 <body>
