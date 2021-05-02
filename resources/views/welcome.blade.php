@@ -4,9 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- CSRF Token -->
-    <meta name="csrf-token" content="{{ csrf_token() }}">
-
     <!-- <title>{{ config('app.name', 'UniversityX') }}</title> -->
     <title>UniversityX</title>
 
@@ -86,7 +83,15 @@
     padding-right: 4vw!important;
 }
 
-    </style>
+/*media query*/
+@media (max-width: 900px) {
+    .ld-logo-cover img {
+    width: 90%!important;
+    height: 90%!important;
+}
+}
+
+</style>
 
     <!---JS--->
     <script src="{{ asset('js/landing.js') }}" defer></script>
