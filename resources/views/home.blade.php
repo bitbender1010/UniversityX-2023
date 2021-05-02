@@ -11,7 +11,7 @@
     <title>UniversityX</title>
 
     <!-- Styles -->
-    <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
 
     <style>
     .cc-1 .course-card .ct-sub {
