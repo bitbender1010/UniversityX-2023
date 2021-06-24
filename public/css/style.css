@@ -327,6 +327,9 @@ nav {
     overflow: hidden;
 }
 
+.ct-sub {
+    line-height: 28px;
+}
 
 /*course card*/
 .course-card {

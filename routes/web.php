@@ -63,6 +63,72 @@ Route::get('/computer-science/100/CSC104/1/coursedetails', function () {
     return view('computer-science/100/CSC104/1/coursedetails');
 });
 
+
+/*CSC 112*/
+Route::get('/computer-science/100/CSC112/coursecontent', function () {
+    return view('computer-science/100/CSC112/coursecontent');
+});
+
+Route::get('/computer-science/100/CSC112/1/coursedetails', function () {
+    return view('computer-science/100/CSC112/1/coursedetails');
+});
+
+/*CSC 132*/
+Route::get('/computer-science/100/CSC132/coursecontent', function () {
+    return view('computer-science/100/CSC132/coursecontent');
+});
+
+Route::get('/computer-science/100/CSC132/1/coursedetails', function () {
+    return view('computer-science/100/CSC132/1/coursedetails');
+});
+
+/*MAT 142*/
+Route::get('/computer-science/100/MAT142/coursecontent', function () {
+    return view('computer-science/100/MAT142/coursecontent');
+});
+
+Route::get('/computer-science/100/MAT142/1/coursedetails', function () {
+    return view('computer-science/100/MAT142/1/coursedetails');
+});
+
+/*MAT 162*/
+Route::get('/computer-science/100/MAT162/coursecontent', function () {
+    return view('computer-science/100/MAT162/coursecontent');
+});
+
+Route::get('/computer-science/100/MAT162/1/coursedetails', function () {
+    return view('computer-science/100/MAT162/1/coursedetails');
+});
+
+/*PHY 102*/
+Route::get('/computer-science/100/PHY102/coursecontent', function () {
+    return view('computer-science/100/PHY102/coursecontent');
+});
+
+Route::get('/computer-science/100/PHY102/1/coursedetails', function () {
+    return view('computer-science/100/PHY102/1/coursedetails');
+});
+
+/*PHY 104*/
+Route::get('/computer-science/100/PHY104/coursecontent', function () {
+    return view('computer-science/100/PHY104/coursecontent');
+});
+
+Route::get('/computer-science/100/PHY104/1/coursedetails', function () {
+    return view('computer-science/100/PHY104/1/coursedetails');
+});
+
+/*GNS 102*/
+Route::get('/computer-science/100/GNS102/coursecontent', function () {
+    return view('computer-science/100/GNS102/coursecontent');
+});
+
+Route::get('/computer-science/100/GNS102/1/coursedetails', function () {
+    return view('computer-science/100/GNS102/1/coursedetails');
+});
+
+
+
 //video routes
 Route::get('/computer-science/100/CSC104/1/video-one', function () {
     return view('computer-science/100/CSC104/1/video-one');

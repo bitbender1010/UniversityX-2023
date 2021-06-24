@@ -9,7 +9,7 @@
                
                        <!--list of courses-->
                        <div class="list-of-courses">
-                           <div class="loc">Courses > Computer as a Problem Solving Tool (CSC 120)</div>
+                           <div class="loc">Courses > Electricity and magnetism 1 (PHY 104) </div>
                            <div class="loc-line"></div>
                        </div>
 
@@ -18,29 +18,51 @@
                        <div class="course-card">
                            <!--number-->
                            <div class="num-tab num-active">1</div>
-                           <div class="course-title ct-sub">Concept of problem solving.</div>
+                           <div class="course-title ct-sub">Vector algebra; electric force and electric field, electric flux and Gauss's law.</div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                            <div class="long-line"> </div>
                         </div>
                 </a>
 
-                <!--2-->
+                <!--1a-->
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
-                           <div class="num-tab num-active">2</div>
-                           <div class="course-title ct-sub">Problem solving steps i.e Problem identification (e.g Management, Scence and Engineering).</div>
+                           <div class="num-tab num-active">1a</div>
+                           <div class="course-title ct-sub">Electric potentials; capacitance and dielectric; ohm's law and d.c circuits.</div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                            <div class="long-line"> </div>
                         </div>
                 </div>
                 
+                <!--1b-->
+                <div href="#" class="cc-1">
+                       <div class="course-card">
+                           <!--number--> 
+                           <div class="num-tab num-active">1b</div>
+                           <div class="course-title ct-sub">Kirchoff law.</div>
+                           <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
+                           <div class="long-line"> </div>
+                        </div>
+                </div>
+
+                <!--2-->
+                <div href="#" class="cc-1">
+                       <div class="course-card">
+                           <!--number--> 
+                           <div class="num-tab num-active">2</div>
+                           <div class="course-title ct-sub">Measurement of resistant and potential difference.</div>
+                           <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
+                           <div class="long-line"> </div>
+                        </div>
+                </div>
+
                 <!--3-->
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number--> 
                            <div class="num-tab num-active">3</div>
-                           <div class="course-title ct-sub">Defination of users' needs or requirement and indentification of solution models. </div>
+                           <div class="course-title ct-sub">The magnetic field, lorentz force; Biot-Savart ansd Amphere's law.</div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                            <div class="long-line"> </div>
                         </div>
@@ -49,57 +71,24 @@
                 <!--4-->
                 <div href="#" class="cc-1">
                        <div class="course-card">
-                           <!--number-->
+                           <!--number--> 
                            <div class="num-tab num-active">4</div>
-                           <div class="course-title ct-sub">Algorithm design, coding and test running. </div>
+                           <div class="course-title ct-sub">Magnetic field due to conductors; Faraday's law of electromagnetic induction.</div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                            <div class="long-line"> </div>
                         </div>
                 </div>
 
+          
                 <!--5-->
                 <div href="#" class="cc-1">
                        <div class="course-card">
-                           <!--number-->
+                           <!--number--> 
                            <div class="num-tab num-active">5</div>
-                           <div class="course-title ct-sub">Implementation and documentation. </div>
-                           <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
-                           <div class="long-line"> </div>
-                        </div>
-                </div>
-
-                <!--6-->
-                <div href="#" class="cc-1">
-                       <div class="course-card">
-                           <!--number-->
-                           <div class="num-tab num-active">6</div>
-                           <div class="course-title ct-sub">Classes of problems: effective approach to problem solvng using computer programming i.e Flowcharts, Algorithm design, Decision table etc. </div>
-                           <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
-                           <div class="long-line"> </div>
-                        </div>
-                </div>
-
-                <!--7-->
-                <div href="#" class="cc-1">
-                       <div class="course-card">
-                           <!--number-->
-                           <div class="num-tab num-active">7</div>
-                           <div class="course-title ct-sub"> Formulation of alternative solutions to problems and their computer models.</div>
-                           <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
-                           <div class="long-line"> </div>
-                        </div>
-                </div>
-
-                <!--8-->
-                <div href="#" class="cc-1">
-                       <div class="course-card">
-                           <!--number-->
-                           <div class="num-tab num-active">8</div>
-                           <div class="course-title ct-sub">Number systems and their representation codes, with detection ands correction. </div>
+                           <div class="course-title ct-sub">Modern physics.</div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                         </div>
                 </div>
-
 
 
 <style>

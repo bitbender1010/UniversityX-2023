@@ -9,68 +9,53 @@
                
                        <!--list of courses-->
                        <div class="list-of-courses">
-                           <div class="loc">Courses > Software Workshop (CSC 104)</div>
+                           <div class="loc">Courses > Introductory Statistics (MAT 162) </div>
                            <div class="loc-line"></div>
                        </div>
 
                 <!--1-->
-                <a href="{{ asset('computer-science/100/CSC104/1/coursedetails') }}" class="cc-1">
+                <a href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
                            <div class="num-tab num-active">1</div>
-                           <div class="course-title ct-sub">Promgramming language; Basic elements, Data types, Control structures and Program design.</div>
+                           <div class="course-title ct-sub">Tabulation of data, frequency table, discrete and grouped data, frequency polygon, curve and give.</div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                            <div class="long-line"> </div>
                         </div>
                 </a>
 
-                <!--2-->
+                <!--1A-->
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
-                           <div class="num-tab num-active">2</div>
-                           <div class="course-title ct-sub">Basic I/O cocepts; Arrays, Procedures, Functions and structured programming.</div>
+                           <div class="num-tab num-active">1a</div>
+                           <div class="course-title ct-sub">Measures of location: mean, mode deviation, standard deviation, quartiles, deciles, scatter diagrams, fitting of staight lines.</div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                            <div class="long-line"> </div>
                         </div>
                 </div>
                 
-                <!--3-->
+                <!--1b-->
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number--> 
-                           <div class="num-tab num-active">3</div>
-                           <div class="course-title ct-sub">Modules; Dynamic Memory Allocation.</div>
+                           <div class="num-tab num-active">1b</div>
+                           <div class="course-title ct-sub">Linear regression, correlation coefficients, rank correlation cofficients, measures of skewness.</div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                            <div class="long-line"> </div>
                         </div>
                 </div>
 
-                <!--4-->
+                <!--1c-->
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
-                           <div class="num-tab num-active">4</div>
-                           <div class="course-title ct-sub">Programming exercises using the current verson of FORTRAN language with emphasis on science application problems. </div>
+                           <div class="num-tab num-active">1c</div>
+                           <div class="course-title ct-sub">Simple concept of probability (probablity laws, addition and multiplication of probabilities), introduction to random variable (Discrete and continous).</div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                         </div>
                 </div>
 
-
-
-                <!--Resources-->
-                <div class="inner-resources"> Resources: </div>
-                <!--files-->
-
-                
-                <a href="{{ asset('files/CSC/100/Book_Fortran_95-2003.ppt')}}" download target="_blank">
-                       <div class="course-card sub-margin">
-                           <!--video icon-->
-                          <div class="sm-sub-icon"> <img src="{{ asset('images/ppt.svg')}}"/> </div>
-                           <div class="course-title ct-sub">Book: Fortran 95-2003 for Scientists and Engineers, by S. J Chapman</div>
-                           <!-- <div class="c-info"> </div> -->
-                       </div>
-                </a>
 
 <style>
     /* body {

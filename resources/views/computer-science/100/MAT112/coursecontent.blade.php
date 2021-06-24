@@ -14,7 +14,7 @@
                        </div>
 
                 <!--1-->
-                <a href="{{ asset('computer-science/100/CSC120/1/coursedetails') }}" class="cc-1">
+                <a href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
                            <div class="num-tab num-active">1</div>
@@ -50,9 +50,10 @@
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
-                           <div class="num-tab">4</div>
+                           <div class="num-tab num-active">4</div>
                            <div class="course-title ct-sub">Differentiation: exponential and logarithmic differentition, statonary values of simple functions. </div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
+                           <div class="long-line"> </div>
                         </div>
                 </div>
 
@@ -60,9 +61,10 @@
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
-                           <div class="num-tab">5</div>
+                           <div class="num-tab num-active">5</div>
                            <div class="course-title ct-sub">Differentiation: maxima and minima, point of inflexon and curve sketching. </div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
+                           <div class="long-line"> </div>
                         </div>
                 </div>
 
@@ -70,9 +72,10 @@
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
-                           <div class="num-tab">6</div>
+                           <div class="num-tab num-active">6</div>
                            <div class="course-title ct-sub">Integration as an inverse of differentiation. </div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
+                           <div class="long-line"> </div>
                         </div>
                 </div>
 
@@ -80,9 +83,10 @@
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
-                           <div class="num-tab">7</div>
+                           <div class="num-tab num-active">7</div>
                            <div class="course-title ct-sub">Integration of simple and harder functions. </div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
+                           <div class="long-line"> </div>
                         </div>
                 </div>
 
@@ -90,9 +94,10 @@
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
-                           <div class="num-tab">8</div>
+                           <div class="num-tab num-active">8</div>
                            <div class="course-title ct-sub">Integration by parts and by substitution, definite integrals. </div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
+                           <div class="long-line"> </div>
                         </div>
                 </div>
 
@@ -100,7 +105,7 @@
                 <div href="#" class="cc-1">
                        <div class="course-card">
                            <!--number-->
-                           <div class="num-tab">9</div>
+                           <div class="num-tab num-active">9</div>
                            <div class="course-title ct-sub">Area walls formula, Simpson's and Trapezoidal Rules. </div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                         </div>
