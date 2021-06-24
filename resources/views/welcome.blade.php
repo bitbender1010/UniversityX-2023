@@ -11,6 +11,16 @@
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
     <link href="{{ secure_asset('css/style.css') }}" rel="stylesheet">
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VK6ZVYNXE2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-VK6ZVYNXE2');
+    </script>
+
     <style>
     .cc-1 .course-card .ct-sub {
         width: calc(100% - 60px)!important;
