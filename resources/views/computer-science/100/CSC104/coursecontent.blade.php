@@ -63,14 +63,57 @@
                 <!--files-->
 
                 
-                <a href="{{ asset('files/CSC/100/Book_Fortran_95-2003.ppt')}}" download target="_blank">
+                <a href="{{ asset('files/CSC/100/Fortran-95-slides-by-Anthony.ppt')}}" download target="_blank">
                        <div class="course-card sub-margin">
                            <!--video icon-->
                           <div class="sm-sub-icon"> <img src="{{ asset('images/ppt.svg')}}"/> </div>
-                           <div class="course-title ct-sub">Book: Fortran 95-2003 for Scientists and Engineers, by S. J Chapman</div>
+                           <div class="course-title ct-sub">Fortran 95 slides by Anthony T. Chronopoulos</div>
                            <!-- <div class="c-info"> </div> -->
                        </div>
                 </a>
+
+                <a href="{{ asset('files/CSC/100/Fortran-for-Scientists-and-Engineers-by-SJ-Chapman.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Book: Fortran for Scientists and Engineers by S. J Chapman</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/Introductions-to-programming-in-FORTRAN-90.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Book: Introduction to programming in FORTRAN 90</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/Introduction-to-Computer-Programming-Using-Fortran-95.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Introduction to Computer Programming Using Fortran 95</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/Introduction-to-Programming-using-Fortran-95-2003-2008.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Introduction to Programming using Fortran 95/2003/2008 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+
+                
+
+
+
+                
 
 <style>
     /* body {

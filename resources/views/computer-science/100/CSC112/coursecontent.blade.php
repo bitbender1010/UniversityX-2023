@@ -18,7 +18,8 @@
                        <div class="course-card">
                            <!--number-->
                            <div class="num-tab num-active">1</div>
-                           <div class="course-title ct-sub">Basic concepts of simple machine architecture, major components, functional relationship between the components of the procesing units (controls, memory and ALU) stored program concepts, representaton of instruction in computer memory, addressing, instructon cycle.</div>
+                           <div class="course-title ct-sub">
+                           Basic concepts of simple machine architecture, major components, functional relationship between the components of the procesing units (controls, memory and ALU) stored program concepts, representaton of instruction in computer memory, addressing, instructon cycle.</div>
                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" class="right-img" height="30px" viewBox="0 0 24 24" width="30px" fill="#000000"><g><path d="M0,0h24v24H0V0z" fill="none"/></g><g><polygon points="6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"/></g></svg>
                            <div class="long-line"> </div>
                         </div>
@@ -78,6 +79,85 @@
                         </div>
                 </div>
 
+
+                <!--Resources-->
+                <div class="inner-resources"> Resources: </div>
+                <!--files-->
+
+                <a href="{{ asset('files/CSC/100/CSC-112-Course-Outline-(Principles-of-Computer-Organization).docx')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">CSC 112 Course Outline (Principles of Computer Organization)</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+                
+                <a href="{{ asset('files/CSC/100/Computer-Organization-and-Architecture-Designing-for-Performance.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Computer Organization and Architecture Designing for Performance</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/Computer-System-Architecture-Morris-Mano.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Computer System Architecture by Morris Mano</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/Computer-Systems-Digital Design-Fundamentals-of-Computer-Architecture-and-Assembly-Language.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Computer Systems: Digital Design, Fundamentals of Computer Architecture and Assembly Language</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/Computer-fundamentals-by-Pradeep-Bhatia.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Computer fundamentals by Pradeep Bhatia</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/Lecture-3-Processor-Datapath-and-Control.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> (Lecture 3) Processor: Datapath and Control </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/Instruction-Set-Architecture.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Instruction Set Architecture </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a> 
+
+                <a href="{{ asset('files/CSC/100/LT3-Von-Neumann-Architecture-(Part I).pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Lecture 3: Von Neumann Architecture (Part I)  </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a> 
+
+                
+                
 
 <style>
     /* body {

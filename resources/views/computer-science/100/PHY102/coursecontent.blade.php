@@ -79,6 +79,239 @@
                 </div>
 
 
+                <!--Resources-->
+                <div class="inner-resources"> Resources: </div>
+                <!--files-->
+
+                <a href="{{ asset('files/PHY/100/College Physics - Frederick J Bueche.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">College Physics - Frederick J Bueche</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+                
+                <a href="{{ asset('files/PHY/100/Complete-PHY102-Note.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Complete PHY 102 note</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/Basic-wave.docx')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Basic wave</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/Interference.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Interference</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/lens.ppt')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/ppt.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Lens</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 1.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 1 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 2.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 2 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 3.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 3 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 4.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 4 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 5.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 5 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 6.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 6 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 7.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 7 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 8.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 8 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 9.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 9 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 10.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 10 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 compiled by Olakunle 11.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 compiled by Olakunle 11 </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 LECTURE SLIDE.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 Lecture Slides</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 Light (Ogungbe - Part 1).pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 Light (Ogungbe - Part 1) </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/PHY 102 Light (Ogungbe - Part 2).pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> PHY 102 Light (Ogungbe - Part 2) </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/Dispersion, Spectra, Chromatic Aberration.docx')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Dispersion, Spectra, Chromatic Aberration  </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/Refraction Of Light.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Refraction Of Light </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/Polarization.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Polarization </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+                
+                <a href="{{ asset('files/PHY/100/Reflection of light at Plane surface.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Reflection of light at Plane surface </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/Beginning Physics 2.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Beginning Physics 2 (Waves, Electromagnetism, Optics, and Modern Physics) </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/PHY/100/Types of Waves.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Types of Waves </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+
+                
+
+
 <style>
     /* body {
         background: red;

@@ -56,6 +56,123 @@
                         </div>
                 </div>
 
+
+                <!--Resources-->
+                <div class="inner-resources"> Resources: </div>
+                <!--files-->
+
+                
+                <a href="{{ asset('files/CSC/100/Computer-Programming-Tutorial-CSC-132.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Computer Programming Tutorial (CSC 132) </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/algorithm-book-by-dasgupta.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Book: Algorithm - Dasgupta, C. H. Papadimitriou, and U. V. Vazirani </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/Core-PHP-Programming-by-Leon-Atkinson.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Book: Core PHP Programming by Leon Atkinson  </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/Eloquent-Javascript.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Book: Eloquent Javascript  </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/csc112-past-question-MGM.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> CSC 112 - Past Question (MGM)  </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/CH1-Overview-of-Computers-and-Logic.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Chapter 1: Overview of Computers and Logic  </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/CH2-Programming-Languages.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Chapter 2: Programming Languages  </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/CH3-Algorithms.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Chapter 3: Algorithms  </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/CH4-Variables-and-Data-Types.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Chapter 4: Variables and Data Types  </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/CH5-Operators.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Chapter 5: Operators </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/CH6-Branching.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Chapter 6: Branching </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+                <a href="{{ asset('files/CSC/100/CH7-Loops.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub"> Chapter 7: Loops </div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+
+                
+
 <style>
     /* body {
         background: red;

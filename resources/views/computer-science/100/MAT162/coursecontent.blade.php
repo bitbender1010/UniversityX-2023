@@ -57,6 +57,21 @@
                 </div>
 
 
+                <!--Resources-->
+                <div class="inner-resources"> Resources: </div>
+                <!--files-->
+
+                
+                <a href="{{ asset('files/MAT/100/schaums-probability.pdf')}}" download target="_blank">
+                       <div class="course-card sub-margin">
+                           <!--video icon-->
+                          <div class="sm-sub-icon"> <img src="{{ asset('images/pdf.svg')}}"/> </div>
+                           <div class="course-title ct-sub">Book: Schaums Probability</div>
+                           <!-- <div class="c-info"> </div> -->
+                       </div>
+                </a>
+
+
 <style>
     /* body {
         background: red;
