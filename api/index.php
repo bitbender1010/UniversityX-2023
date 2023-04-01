@@ -1,4 +1,4 @@
 <?php
 
-// Forward Vercel requests to normal index.php
+// Forward Vercel requests to normal
 require __DIR__ . '/../public/index.php';
